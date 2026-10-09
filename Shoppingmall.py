@@ -19,7 +19,10 @@ class Product:
             print("total cost:", total_price)
             print("Remaining stock:", self.stock)
         else:
-            print("Not enough stock")
+            print("Not enough stock")          
+    #hello needs to deleteded
+    #YOLO
+            
 #i am chekcing pls allow
 
 class Electronics(Product):
