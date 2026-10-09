@@ -20,7 +20,7 @@ class Product:
             print("Remaining stock:", self.stock)
         else:
             print("Not enough stock")
-
+#i am chekcing pls allow
 
 class Electronics(Product):
     def __init__(self, name, price, stock, warranty):
