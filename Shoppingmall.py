@@ -17,7 +17,7 @@ class Product:
             print("Remaining stock:", self.stock)
         else:
             print("Not enough stock")          
-    
+    #hello needs to deleteded
 class Electronics(Product):
         def __init__(self,name,price,stock,warranty):
             super().__init__(name, price, stock)
